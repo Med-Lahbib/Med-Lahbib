@@ -2,6 +2,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+
 <section>
 <div style="width: 50%">
 
@@ -13,7 +15,7 @@
   
 </div>
 
-<div style="width: 50%"><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" ></div>
+<div style="float:right"><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" ></div>
 </section>
 
 
