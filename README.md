@@ -3,7 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 **🔵 I'm Currently IT Student**   
 
@@ -21,4 +25,4 @@
 
 <br>
 
-<p align=center><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" width= 100%></p>
+<p align=center><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif"></p>
