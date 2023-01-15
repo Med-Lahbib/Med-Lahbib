@@ -16,12 +16,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)](https://skillicons.dev)
+
 
 <br>
 
-<p align=center><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" ></p>
+<p align=center><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" width= 100%></p>
