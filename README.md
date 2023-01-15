@@ -3,8 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-<div style="display:inline-block;
-    position:relative;">
+<div style="display:inline-block;">
 
 **🔵 I'm Currently IT Student**   
 
@@ -14,7 +13,7 @@
   
 </div>
 
-<img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" style="display:inline-block;>
+<img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" style="display:inline-block;">
 
 
 
