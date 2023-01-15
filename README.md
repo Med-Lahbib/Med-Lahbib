@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-<!--
-**Med-Lahbib/Med-Lahbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**🔵 I'm Currently IT Student**   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🟠 Ask me about Front-end track**
+
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-lahbib-97b885257/), <a href="mailto:lahbibmed07@gmail.com" target="_blanck"> Gmail </a>**
+
+
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)
+
+<br>
