@@ -13,7 +13,7 @@
   
 </div>
 
-<div><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" style="width: 50%"></div>
+<div style="width: 50%"><img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" ></div>
 </section>
 
 
