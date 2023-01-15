@@ -11,6 +11,6 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)
+[![My Skills](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)](https://skillicons.dev)
 
 <br>
