@@ -5,11 +5,11 @@
 <div>
 <div style="width: 50%">
 
-**🔵 I'm Currently IT Student**   
+🔵 I'm Currently IT Student  
 
-**🟠 Ask me about Front-end track**
+🟠 Ask me about Front-end track
 
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-lahbib-97b885257/), <a href="mailto:lahbibmed07@gmail.com" target="_blanck"> Gmail </a>**
+🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohamed-lahbib-97b885257/), <a href="mailto:lahbibmed07@gmail.com" target="_blanck"> Gmail </a>
   
 </div>
 
