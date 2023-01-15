@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+There+👋;Nice+to+meet+you...)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,laravel,flutter,nodejs,vue,flutter,mongodb,mysql,javascript,typescript,html,css,scss,bootstrap,,,,c,spring,python,figma,vscode,github,netlify,matlab,heroku,bash)](https://skillicons.dev)
 
 **🔵 I'm Currently IT Student**   
 
