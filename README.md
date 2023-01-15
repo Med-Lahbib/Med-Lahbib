@@ -13,8 +13,9 @@
   
 </section>
 
-<img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" align=right>
-style="float: right"
+<img src="https://media.tenor.com/c7IZhDj_OdcAAAAC/work-work-work-work.gif" style="display:inline-block;
+    position:relative;">
+
 
 
 
